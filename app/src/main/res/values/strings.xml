@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Business Card</string>
-    <string name="aseel_alawadh">Aseel Alawadh</string>
-    <string name="software_engineering">Software Engineering</string>
-    <string name="software_development_and_infrastructure">Software development and infrastructure</string>
+    <string name="name">Aseel Alawadh</string>
+    <string name="occupation">Software Engineering</string>
+    <string name="occ_desc">Software development and infrastructure</string>
     <string name="contact">Contact :</string>
-    <string name="linkedin">/AseelAlawadh</string>
-    <string name="saudia_arabia_riyadh">Saudia Arabia - Riyadh</string>
-    <string name="_24_7">24/7</string>
-    <string name="phoneNumber">+966544490913</string>
-    <string name="E_mail">Aseel.alawadh@gmail.com</string>
-    <string name="todo">TODO</string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/aseelalawadh/">/Aseel Alawadh</a></string>
+    <string name="location">Saudi Arabia - Riyadh</string>
+    <string name="working_time">24/7</string>
+    <string name="phone_number">+966544490913</string>
+    <string name="email">Aseel.alawadh@gmail.com</string>
+    <string name="header_desc">Header Business Card</string>
 </resources>
